@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4062029d-7408-4e7c-9d5c-25bd38a27cd6" name="Changes" comment="grouping name and write number letter names">
-      <change afterPath="$PROJECT_DIR$/src/lamda/Average.java" afterDir="false" />
-    </list>
+    <list default="true" id="4062029d-7408-4e7c-9d5c-25bd38a27cd6" name="Changes" comment="insert word and check first and last litter" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,6 +35,20 @@
       <recent name="grouping" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <module name="tamrie9" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.test" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -45,7 +57,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657015901297</updated>
-      <workItem from="1657015902635" duration="312000" />
+      <workItem from="1657015902635" duration="785000" />
     </task>
     <task id="LOCAL-00001" summary="method add name arraylist">
       <created>1657016036349</created>
@@ -61,7 +73,21 @@
       <option name="project" value="LOCAL" />
       <updated>1657016135965</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="insert number and calculate the Average">
+      <created>1657016350312</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1657016350312</updated>
+    </task>
+    <task id="LOCAL-00004" summary="insert word and check first and last litter">
+      <created>1657016436751</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1657016436751</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,6 +107,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="method add name arraylist" />
     <MESSAGE value="grouping name and write number letter names" />
-    <option name="LAST_COMMIT_MESSAGE" value="grouping name and write number letter names" />
+    <MESSAGE value="insert number and calculate the Average" />
+    <MESSAGE value="insert word and check first and last litter" />
+    <option name="LAST_COMMIT_MESSAGE" value="insert word and check first and last litter" />
   </component>
 </project>
