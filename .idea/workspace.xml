@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4062029d-7408-4e7c-9d5c-25bd38a27cd6" name="Changes" comment="insert word and check first and last litter" />
+    <list default="true" id="4062029d-7408-4e7c-9d5c-25bd38a27cd6" name="Changes" comment="filter number" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -57,7 +64,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657015901297</updated>
-      <workItem from="1657015902635" duration="785000" />
+      <workItem from="1657015902635" duration="1104000" />
     </task>
     <task id="LOCAL-00001" summary="method add name arraylist">
       <created>1657016036349</created>
@@ -87,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657016436751</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="filter number">
+      <created>1657016998400</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1657016998400</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,6 +123,7 @@
     <MESSAGE value="grouping name and write number letter names" />
     <MESSAGE value="insert number and calculate the Average" />
     <MESSAGE value="insert word and check first and last litter" />
-    <option name="LAST_COMMIT_MESSAGE" value="insert word and check first and last litter" />
+    <MESSAGE value="filter number" />
+    <option name="LAST_COMMIT_MESSAGE" value="filter number" />
   </component>
 </project>
