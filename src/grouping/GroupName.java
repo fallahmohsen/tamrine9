@@ -7,7 +7,13 @@ public class GroupName {
     public static void main(String[] args) {
         List<String> name = new ArrayList<>();
         ArrayList(name);
-
+        Map<Integer, List<String>> nameList = name.
+                stream()
+                .collect(Collectors.groupingBy(String::length));
+        System.out.println(nameList);
+        nameList.forEach((Integer, String) -> {
+            System.out.println("Number of names with " + Integer + " letters= " + nameList.get(Integer).size());
+        });
     }
 
 
